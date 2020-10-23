@@ -4,6 +4,7 @@ Getting Started:
 
 Import the database file 'placement.sql'
 
+Login Details:
 Admin: MUT15CS061
 Faculty: MUT15CS100
 Student: MUT15CS001-60
