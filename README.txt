@@ -1,3 +1,7 @@
+This is a web application to manage student profiles, simplify and coordinate the placement cell’s activities.
+
+Getting Started:
+
 Import the database file 'placement.sql'
 
 Admin: MUT15CS061
